@@ -6,7 +6,7 @@ The repository contains a catalog of carefully selected subsets of data extracte
 2. Data provenance
 3. Data visualization and analysis
 4. Usage for future research
-5. Instruction on using the Python Jupyter Notebook
+5. Instruction on reproducing the dataset
 6. Author and contact information
 
 ### Background Information
@@ -29,12 +29,34 @@ In general, the multi-line chart presentation allows for a comparison between th
 
 The data visualization is created using [Datawrapper](https://www.datawrapper.de/). 
 
+### Usage for Future Research
 
-### Instruction
+Each prospective study route listed below could significantly contribute to our understanding of mental health,  allowing us to develop more effective strategies for prevention, treatment, and support.
+- **Healthcare Planning**: The data can help to predict future needs for mental health services, allocate resources effectively, and plan for healthcare infrastructure.
+- **Cross-Cultural Comparisons**: When combined with similar datasets from other countries, it could help in conducting cross-cultural studies on the prevalence and treatment of mental health conditions.
+- **Machine Learning Models**: The dataset can be used to build mathematical models for early intervention or to predict future trends in mental health within the population.
+
+Here are some other useful subsets of Global Trends in Mental Health Disorders that are generated from the _Python Jupyter Notebook_:
+- [Schizophrenia](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Schizophrenia.csv)
+- [Bipolar Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Bipolar_Disorder.csv)
+- [Eating Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Eating_Disorder.csv)
+- [Anxiety Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Anxiety_Disorder.csv)
+- [Drug Use Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Drug_Use_Disorder.csv)
+- [Depression](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Depression.csv)
+- [Alcohol Use Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Alcohol_Use_Disorder.csv)
+- [Global Trends in Mental Health Disorder - Mean Data](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Mean_Data.csv)
+- [Global Trends in Mental Health Disorder - Filtered](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/filtered.csv)
+
+  
+### Instruction on Reproducing the datasets by Using _Python Jupyter Notebook_
 Within this repository, you will find the three primary files:
 - The CSV file containing the original dataset, [click to view ->](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/Mental%20health%20Depression%20disorder%20Data.csv)
-- The Python Jupyter Notebook containing the instructions for filtering data and creating new subsets, [click to view ->](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/Zhang_unit_project.ipynb)
+- The _Python Jupyter Notebook_ containing the instructions for filtering data and creating new subsets, [click to view ->](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/Zhang_unit_project.ipynb)
 - The CSV file containing the new subset of United States Depression and Anxiety Disorder, [click to view ->](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/US_Anxiety_Depression.csv)
 
-**Getting started on this repository**, you can redirect yourself to the Python Jupyter Notebook file. Carefully read through the _Overview_ section, and follow the instructions. After going through the Python Jupyter Notebook file, you can return to this README file and view the analysis below.  
+To get started reproducing the dataset, redirect yourself to the _Python Jupyter Notebook_ file. Carefully read through the Overview section and follow the instructions. 
 
+### Author and Contact Information
+Zhaojiayi Zhang
+Undergraduate, University of North Carolina at Chapel Hill
+Email: zzhang27@unc.edu
