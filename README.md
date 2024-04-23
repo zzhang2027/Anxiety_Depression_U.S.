@@ -58,8 +58,6 @@ Within this repository, you will find the three primary files:
 To get started reproducing the dataset, redirect yourself to the _Python Jupyter Notebook_ file. Carefully read through the Overview section and follow the instructions. 
 
 ### Author and Contact Information
-Zhaojiayi Zhang
-
-Undergraduate, University of North Carolina at Chapel Hill
-
+Zhaojiayi Zhang\
+Undergraduate, University of North Carolina at Chapel Hill\
 Email: zzhang27@unc.edu
