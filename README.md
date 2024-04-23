@@ -20,9 +20,9 @@ Within this repository, you will find the three primary files:
 
 **Getting started on this repository**, you can redirect yourself to the Python Jupyter Notebook file. Carefully read through the _Overview_ section, and follow the instructions. After going through the Python Jupyter Notebook file, you can return to this README file and view the analysis below.  
 
-### Data Visualization
+### Data Visualization and Analysis
 
-Overall, the multi-line chart presentation allows for a comparison between the two mental health disorders, which indicates that while both have shown increases, the pattern for anxiety disorders contains more variability within the period, whereas depression shows a steadier increase. The sharp peak in anxiety disorders suggests a year or years of significant growth, which might need further research to understand the underlying factors contributing to this change.
+In generally, the multi-line chart presentation allows for a comparison between the two mental health disorders, which indicates that while both have shown increases, the pattern for anxiety disorders contains more variability within the period, whereas depression shows a steadier increase. The sharp peak in anxiety disorders suggests a year or years of significant growth, which might need further research to understand the underlying factors contributing to this change.
 
 ![data-viz](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/data_visual/Prevalence_Anxiety_Depression_U.S..png)
 
