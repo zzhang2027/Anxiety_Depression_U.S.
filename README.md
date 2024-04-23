@@ -22,7 +22,7 @@ Mental health has increasingly become a focus of public health efforts in the Un
 
 In general, the multi-line chart presentation allows for a comparison between the two mental health disorders, which indicates that while both have shown increases, the pattern for anxiety disorders contains more variability within the period, whereas depression shows a steadier increase. The sharp peak in anxiety disorders suggests a year or years of significant growth, which might need further research to understand the underlying factors contributing to this change.
 
-![data-viz](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/data_visual/Prevalence_Anxiety_Depression_U.S..png)
+![data-viz](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/data_visual/Prevalence_of_Anxiety_Depression_U.S..png)
 
 - __Anxiety Disorders__: The graph for anxiety disorders shows a dramatic spike in prevalence from 1995 to 2010, which could suggest an external event, such as the inflation and financial crisis in the early 21st century, or a change in diagnostic practices that resulted in a surge in anxiety disorder diagnoses. After the spike, the prevalence quickly reverts to levels similar to those before the peak.
 - __Depression__: The prevalence of depression has increased more steadily over the years, suggesting a gradual rise in the number of reported cases or diagnoses. This consistent climb might reflect several factors, including improved condition recognition, reduced stigma, popularization of mental health, and more accurate reporting. However, it could also indicate a genuine rise in the incidence of depression due to societal factors.
