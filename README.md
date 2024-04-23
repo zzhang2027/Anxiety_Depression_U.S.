@@ -2,6 +2,7 @@
 The repository contains a catalog of carefully selected subsets of data extracted from [Global Trends in Mental Health Disorder](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder) datasets. The initial dataset includes information from a worldwide perspective, detailing the prevalence of various mental health disorders such as schizophrenia, bipolar disorder, eating disorders, drug use disorders, alcohol use disorders, anxiety disorders, and depression. In this repository, we will mainly focus on the trends in the prevalence of anxiety disorder and depression in the U.S. In addition, it contains a Python Jupyter Notebook that methodically documents the process of generating subsets and ensuring their reproducibility. 
 
 ### Overview
+Getting started on this repository, carefully read through each section below. If you have any questions, please use the email address at the bottom of the page to contact.
 1. Background information about mental health in the United States
 2. Data provenance
 3. Data visualization and analysis
