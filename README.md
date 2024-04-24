@@ -1,3 +1,5 @@
+[title-viz](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/data_visual/Mental%20Health.png)
+
 # Trends in Mental Health: Analyzing the Prevalence of Anxiety Disorders and Depression in the United States (1990-2017)
 The repository contains a catalog of carefully selected subsets of data extracted from [Global Trends in Mental Health Disorder](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder) datasets. The initial dataset includes information from a worldwide perspective, detailing the prevalence of various mental health disorders such as schizophrenia, bipolar disorder, eating disorders, drug use disorders, alcohol use disorders, anxiety disorders, and depression. In this repository, we will mainly focus on the trends in the prevalence of anxiety disorder and depression in the U.S. In addition, it contains a Python Jupyter Notebook that methodically documents the process of generating subsets and ensuring their reproducibility. 
 
