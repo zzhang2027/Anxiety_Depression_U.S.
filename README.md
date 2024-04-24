@@ -39,7 +39,7 @@ Each prospective study route listed below could significantly contribute to our 
 - **Cross-Cultural Comparisons**: When combined with similar datasets from other countries, it could help in conducting cross-cultural studies on the prevalence and treatment of mental health conditions.
 - **Machine Learning Models**: The dataset can be used to build mathematical models for early intervention or to predict future trends in mental health within the population.
 
-Here are some other useful subsets of Global Trends in Mental Health Disorders that are generated from the _Python Jupyter Notebook_:
+Here are some other useful subsets of Global Trends in Mental Health Disorders that are generated from the _Python Jupyter Notebook_, you can also find them in the ["csv"](https://github.com/zzhang2027/Anxiety_Depression_U.S./tree/main/csv) folder:
 - [Schizophrenia](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Schizophrenia.csv)
 - [Bipolar Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Bipolar_Disorder.csv)
 - [Eating Disorder](https://github.com/zzhang2027/Anxiety_Depression_U.S./blob/main/csv/Eating_Disorder.csv)
